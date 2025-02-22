@@ -29,10 +29,10 @@ export const Contact = () => {
   return (
     <section
       id="contact"
-      className="min-h-screen flex items-center justify-center  py-5 md:py-20"
+      className=" flex justify-center items-center w-[100%] h-[100vh] max-w-md w-full max-auto pg-6 rounded-lg shadow-md"
     >
       <RevealOnScroll>
-        <div className="px-4 xl:w-150 lg:w-100 md:w-75 sm:w-50">
+        <div className="px-4 w-auto">
           <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent text-center">
             {" "}
             Get In Touch

@@ -26,7 +26,9 @@ function App() {
         <Home />
         <About />
         <Projects />
-        <Contact />
+        <div className = "flex justify-center items-center w-[100%] h-[100vh]"> 
+          <Contact />
+          </div>
       </div>
     </>
   );
