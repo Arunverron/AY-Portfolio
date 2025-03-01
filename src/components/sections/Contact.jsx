@@ -29,7 +29,7 @@ export const Contact = () => {
   return (
     <section
       id="contact"
-      className=" flex justify-center items-center w-[100%] h-[100vh] max-w-md w-full max-auto pg-6 rounded-lg shadow-md"
+      className=" max-w-md w-full max-auto pg-6 rounded-lg shadow-md"
     >
       <RevealOnScroll>
         <div className="px-4 w-auto">
